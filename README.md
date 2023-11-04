@@ -19,8 +19,7 @@
             <h3>Lorem, ipsum dolor.</h3>
             <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Quam, quasi.</p>
         </div>
-
-            <footer>
+    </main>
         <hr>
         <ul>
             <li>Lorem ipsum dolor sit amet.</li>
@@ -28,10 +27,5 @@
             <li>email@email.com</li>
         </ul>
         <p>&copy; Все права защищены</p>
-    </footer>
-    </main>
-    
-
-
 </body>
 </html>
